@@ -25,4 +25,4 @@ catchup=False
       bash_command='spark-submit spark/analytics.py'
     )
 
-ingest>>transform>>analytics
+
