@@ -314,8 +314,4 @@ Analytics
 - Kafka streaming ingestion
 - Prometheus and Grafana monitoring
 
----
 
-## Resume Bullet
-
-Built an end-to-end Data Lakehouse platform using Apache Iceberg, PySpark, Airflow, and S3-compatible object storage implementing Bronze/Silver/Gold architecture with support for schema evolution, ACID transactions, and time-travel queries.
